@@ -1,2 +1,2 @@
-# barroc-it-med
+# Barroc-IT
 School project - Barroc-IT
